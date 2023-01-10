@@ -1,6 +1,5 @@
-1.1: Write a function that interacts with ndarrays in a unique way. (For example a switch case which adds together two ndarrays containing 0s and 1s)
-1.2: Write a function that takes a function and returns the derivitive of that function in respect to the single input variable. Then make a function that 
-returns all values from (x - 5) -> (x + 5). 
+1.1: Write a function that interacts with ndarrays in a unique way. (For example a logic case which adds together two ndarrays containing 0s and 1s)
+1.2: Write a function that takes a function and returns the derivitive of that function in respect to the single input variable. Then make a function that  returns all derivitives from (x - 5) -> (x + 5). 
 1.3: Write a function that solves 3 nested functions.
 1.4/1.5: Write a function that uses the chain rule to compute the derivitive of 3 nested functions. 
 1.6/1.7: Write a function that takes the derivitive of 3 nested functions with at least one of the functions containing multiple inputs.
