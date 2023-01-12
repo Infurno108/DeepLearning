@@ -22,5 +22,11 @@ def derivx5(function, x, h = 0.00000000001):
     return bap
 #print(derivx5(f,2))
 #1.3
+
+def x(x):
+    return (6 * x)
+def y(x):
+    return (x/10)
+
 def triplenest(functions, x): #array functions contains 3 functions in order of nesting. 0(1(2(x)))
 
